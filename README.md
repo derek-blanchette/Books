@@ -11,3 +11,4 @@
 * Fundamentals of Clinical Trials. Friedman, Furberg, DeMets. https://www.amazon.com/Fundamentals-Clinical-Trials-Lawrence-Friedman/dp/0387985867/ref=sr_1_19?ie=UTF8&qid=1524763903&sr=8-19
 * Statistical Methods for the Analysis of Repeated Measurements. Davis. https://www.amazon.com/Statistical-Analysis-Repeated-Measurements-Statistics/dp/0387953701/ref=sr_1_1?ie=UTF8&qid=1524865775&sr=8-1
 * Survival Analysis: Techniques for Censored and Truncated Data. Klein, Moeschberger. https://www.amazon.com/Survival-Analysis-Techniques-Truncated-Statistics/dp/038795399X/ref=sr_1_1?s=books&ie=UTF8&qid=1524865819&sr=1-1
+* Analysis of Longitudinal Data (Oxford Statistical Science Series). Diggle, Heagerty, Liang, Zeger. https://www.amazon.com/Analysis-Longitudinal-Oxford-Statistical-Science/dp/0199676755/ref=sr_1_1?s=books&ie=UTF8&qid=1524865898&sr=1-1
