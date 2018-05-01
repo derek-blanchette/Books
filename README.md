@@ -10,7 +10,7 @@
 * Learn SAS by Example: A Programmer's Guide. Cody. https://www.amazon.com/Learning-SAS-Example-Programmers-Guide/dp/1599941651/ref=sr_1_1?ie=UTF8&qid=1525201611&sr=8-1
 * The Little SAS Book: A Primer. Delwiche, Slaughter. https://www.amazon.com/Little-SAS-Book-Primer-Fifth/dp/1612903436/ref=sr_1_1?s=books&ie=UTF8&qid=1525201649&sr=1-1
 
-## Statistical Methods
+## Regression Techniques
 * Applied Predictive Modeling. Kuhn and Johnson. https://www.amazon.com/Applied-Predictive-Modeling-Max-Kuhn/dp/1461468485/ref=sr_1_1?ie=UTF8&qid=1524250504&sr=8-1
 * Applied Logistic Regression. Hosmer and Lemeshow. https://www.amazon.com/Applied-Logistic-Regression-David-Hosmer/dp/0470582472/ref=sr_1_1?ie=UTF8&qid=1524446684&sr=8-1
 * Survival Analysis: Techniques for Censored and Truncated Data. Klein, Moeschberger. https://www.amazon.com/Survival-Analysis-Techniques-Truncated-Statistics/dp/038795399X/ref=sr_1_1?s=books&ie=UTF8&qid=1524865819&sr=1-1
