@@ -16,6 +16,7 @@
 * Fundamentals of Clinical Trials. Friedman, Furberg, DeMets. https://www.amazon.com/Fundamentals-Clinical-Trials-Lawrence-Friedman/dp/0387985867/ref=sr_1_19?ie=UTF8&qid=1524763903&sr=8-19
 
 ### Regression / Stat Methods
+* Biostatistical Analysis. Zar. https://www.amazon.com/Biostatistical-Analysis-5th-Jerrold-Zar/dp/0131008463/ref=sr_1_1?s=books&ie=UTF8&qid=1525294212&sr=1-1
 * Applied Predictive Modeling. Kuhn and Johnson. https://www.amazon.com/Applied-Predictive-Modeling-Max-Kuhn/dp/1461468485/ref=sr_1_1?ie=UTF8&qid=1524250504&sr=8-1
 * Applied Logistic Regression. Hosmer and Lemeshow. https://www.amazon.com/Applied-Logistic-Regression-David-Hosmer/dp/0470582472/ref=sr_1_1?ie=UTF8&qid=1524446684&sr=8-1
 * Survival Analysis: Techniques for Censored and Truncated Data. Klein, Moeschberger. https://www.amazon.com/Survival-Analysis-Techniques-Truncated-Statistics/dp/038795399X/ref=sr_1_1?s=books&ie=UTF8&qid=1524865819&sr=1-1
