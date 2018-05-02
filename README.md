@@ -11,7 +11,7 @@
 * The Little SAS Book: A Primer. Delwiche, Slaughter. https://www.amazon.com/Little-SAS-Book-Primer-Fifth/dp/1612903436/ref=sr_1_1?s=books&ie=UTF8&qid=1525201649&sr=1-1
 * SAS Functions by Example. Ron Cody. https://www.amazon.com/SAS-Functions-Example-Second-Cody/dp/1607643405/ref=sr_1_1?ie=UTF8&qid=1525294121&sr=8-1
 
-### Clinical / Human Subjects Research
+### Clinical Trials / Human Subjects Research
 * Sample Size Calculations in Clinical Research, Third Edition (Chapman & Hall/CRC Biostatistics Series). Chow, Shao, Wang, Lokhnygina. https://www.amazon.com/Calculations-Clinical-Research-Chapman-Biostatistics/dp/1138740985/ref=sr_1_1?ie=UTF8&qid=1524695175 
 * Fundamentals of Clinical Trials. Friedman, Furberg, DeMets. https://www.amazon.com/Fundamentals-Clinical-Trials-Lawrence-Friedman/dp/0387985867/ref=sr_1_19?ie=UTF8&qid=1524763903&sr=8-19
 
