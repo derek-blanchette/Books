@@ -9,6 +9,7 @@
 ### [SAS]
 * Learn SAS by Example: A Programmer's Guide. Cody. https://www.amazon.com/Learning-SAS-Example-Programmers-Guide/dp/1599941651/ref=sr_1_1?ie=UTF8&qid=1525201611&sr=8-1
 * The Little SAS Book: A Primer. Delwiche, Slaughter. https://www.amazon.com/Little-SAS-Book-Primer-Fifth/dp/1612903436/ref=sr_1_1?s=books&ie=UTF8&qid=1525201649&sr=1-1
+* SAS Functions by Example. Ron Cody. https://www.amazon.com/SAS-Functions-Example-Second-Cody/dp/1607643405/ref=sr_1_1?ie=UTF8&qid=1525294121&sr=8-1
 
 ### Clinical / Human Subjects Research
 * Sample Size Calculations in Clinical Research, Third Edition (Chapman & Hall/CRC Biostatistics Series). Chow, Shao, Wang, Lokhnygina. https://www.amazon.com/Calculations-Clinical-Research-Chapman-Biostatistics/dp/1138740985/ref=sr_1_1?ie=UTF8&qid=1524695175 
