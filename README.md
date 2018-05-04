@@ -1,5 +1,5 @@
 # Books
-
+I've linked to Amazon as many of these books have the "Look Inside" feature.
 ### [R]
 * The Book of R: A First Course in Programming and Statistics. Davies. https://www.amazon.com/Book-First-Course-Programming-Statistics/dp/1593276516/ref=sr_1_2?ie=UTF8&qid=1524250564&sr=8-2
 * R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. Wickham. https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/ref=sr_1_fkmr0_1?ie=UTF8&qid=1524250610&sr=8-1-fkmr0
