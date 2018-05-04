@@ -32,3 +32,6 @@ I've linked to Amazon as many of these books have the "Look Inside" feature.
 * Applied Longitudinal Analysis. Fitzmaurice and Ware. https://www.amazon.com/Applied-Longitudinal-Analysis-Garrett-Fitzmaurice/dp/0470380276/ref=sr_1_1?ie=UTF8&qid=1524446746&sr=8-1
 * Statistical Methods for the Analysis of Repeated Measurements. Davis. https://www.amazon.com/Statistical-Analysis-Repeated-Measurements-Statistics/dp/0387953701/ref=sr_1_1?ie=UTF8&qid=1524865775&sr=8-1
 
+### [Java]
+* Absolute Java (6th Edition). Savitch, Mock. https://www.amazon.com/Absolute-Java-6th-Walter-Savitch/dp/0134041674/
+
