@@ -22,7 +22,7 @@ I've linked to Amazon as many of these books have the "Look Inside" feature.
 ### Experimental Design
 * Introduction to Design and Analysis of Experiments. Cobb. https://www.amazon.com/Introduction-Design-Analysis-Experiments-George/dp/047041216X/ref=sr_1_3?ie=UTF8&qid=1525383530&sr=8-3
 
-### Stat Methods / Regression
+### Stat Methods / Regression / Modeling
 * Biostatistical Analysis. Zar. https://www.amazon.com/Biostatistical-Analysis-5th-Jerrold-Zar/dp/0131008463/ref=sr_1_1?s=books&ie=UTF8&qid=1525294212&sr=1-1
 * Applied Predictive Modeling. Kuhn and Johnson. https://www.amazon.com/Applied-Predictive-Modeling-Max-Kuhn/dp/1461468485/ref=sr_1_1?ie=UTF8&qid=1524250504&sr=8-1
 * Applied Logistic Regression. Hosmer and Lemeshow. https://www.amazon.com/Applied-Logistic-Regression-David-Hosmer/dp/0470582472/ref=sr_1_1?ie=UTF8&qid=1524446684&sr=8-1
