@@ -9,7 +9,7 @@ I've linked to Amazon as many of these books have the "Look Inside" feature.
 
 ### [SAS]
 * Learn SAS by Example: A Programmer's Guide. Cody. https://www.amazon.com/Learning-SAS-Example-Programmers-Guide/dp/1599941651/ref=sr_1_1?ie=UTF8&qid=1525201611&sr=8-1
-* The Little SAS Book: A Primer . Delwiche, Slaughter. https://www.amazon.com/Little-SAS-Book-Primer-Fifth/dp/1612903436/ref=sr_1_1?s=books&ie=UTF8&qid=1525201649&sr=1-1
+* The Little SAS Book: A Primer. Delwiche, Slaughter. https://www.amazon.com/Little-SAS-Book-Primer-Fifth/dp/1612903436/ref=sr_1_1?s=books&ie=UTF8&qid=1525201649&sr=1-1
 * SAS Functions by Example. Ron Cody. https://www.amazon.com/SAS-Functions-Example-Second-Cody/dp/1607643405/ref=sr_1_1?ie=UTF8&qid=1525294121&sr=8-1
 * SAS Certification Prep Guide: Base Programming for SAS 9. SAS Institute. https://www.amazon.com/SAS-Certification-Prep-Guide-Programming/dp/1607649241/ref=pd_sim_14_12?_encoding=UTF8&pd_rd_i=1607649241
 * Survival Analysis Using SAS: A Practical Guide. Allison. https://www.amazon.com/Survival-Analysis-Using-SAS-Practical/dp/1599946408
