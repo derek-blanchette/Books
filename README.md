@@ -4,7 +4,7 @@ I've linked to Amazon as many of these books have the "Look Inside" feature.
 * The Book of R: A First Course in Programming and Statistics. Davies. [Amazon](https://www.amazon.com/Book-First-Course-Programming-Statistics/dp/1593276516)
 * R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. Wickham. [Amazon](https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399) (Free full text at http://r4ds.had.co.nz/)
 * The Art of R Programming: A Tour of Statistical Software Design. Matloff. [Amazon](https://www.amazon.com/Art-Programming-Statistical-Software-Design/dp/1593273843)
-* ggplot2: Elegant Graphics for Data Analysis. Wickham. https://www.amazon.com/dp/331924275X/ref=rdr_ext_sb_ti_sims_7
+* ggplot2: Elegant Graphics for Data Analysis. Wickham. [Amazon](https://www.amazon.com/dp/331924275X/ref=rdr_ext_sb_ti_sims_7)
 * Practical Data Science with R. Zumel, Mount, Porzak. https://www.amazon.com/Practical-Data-Science-Nina-Zumel/dp/1617291560/
 * Advanced R. Wickham. [Free Full Text](http://adv-r.had.co.nz/) [Amazon](https://www.amazon.com/dp/1466586966/ref=cm_sw_su_dp?tag=devtools-20)
 * R Packages. Wickham. [Free Full Text](http://r-pkgs.had.co.nz/) [Amazon](https://www.amazon.com/dp/1491910593/ref=cm_sw_su_dp?tag=r-pkgs-20)
