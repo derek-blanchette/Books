@@ -9,7 +9,7 @@ I've linked to Amazon as many of these books have the "Look Inside" feature.
 * Advanced R. Wickham. [Free Full Text](http://adv-r.had.co.nz/), [Amazon](https://www.amazon.com/dp/1466586966/ref=cm_sw_su_dp?tag=devtools-20)
 * R Packages. Wickham. [Free Full Text](http://r-pkgs.had.co.nz/), [Amazon](https://www.amazon.com/dp/1491910593/ref=cm_sw_su_dp?tag=r-pkgs-20)
 * Text Mining with R: A Tidy Approach. Silge and Robinson. [Free Full Text](https://www.tidytextmining.com/index.html) , [Amazon](https://www.amazon.com/gp/product/1491981652/ref=as_li_tl?ie=UTF8&tag=juliasilge-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491981652&linkId=0e92d44b0aa39ab34608ffa582dbd490)
-* The `caret` Package. Kuhn. [Free Full Text] (https://topepo.github.io/caret/index.html) 
+* The `caret` Package. Kuhn. [Free Full Text](https://topepo.github.io/caret/index.html) 
 
 ### [SAS]
 * Learn SAS by Example: A Programmer's Guide. Cody. [Amazon](https://www.amazon.com/Learning-SAS-Example-Programmers-Guide/dp/1599941651/)
