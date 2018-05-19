@@ -45,7 +45,7 @@ I've linked to Amazon as many of these books have the "Look Inside" feature.
 
 ### Longitudinal Data Analysis
 * Analysis of Longitudinal Data (Oxford Statistical Science Series). Diggle, Heagerty, Liang, Zeger. https://www.amazon.com/Analysis-Longitudinal-Oxford-Statistical-Science/dp/0199676755/ref=sr_1_1?s=books&ie=UTF8&qid=1524865898&sr=1-1
-* Applied Longitudinal Analysis. Fitzmaurice and Ware. https://www.amazon.com/Applied-Longitudinal-Analysis-Garrett-Fitzmaurice/dp/0470380276/ref=sr_1_1?ie=UTF8&qid=1524446746&sr=8-1
+* Applied Longitudinal Analysis. Fitzmaurice and Ware. [Amazon](https://www.amazon.com/Applied-Longitudinal-Analysis-Garrett-Fitzmaurice/dp/0470380276)
 * Statistical Methods for the Analysis of Repeated Measurements. Davis. [Amazon](https://www.amazon.com/Statistical-Analysis-Repeated-Measurements-Statistics/dp/0387953701)
 
 
