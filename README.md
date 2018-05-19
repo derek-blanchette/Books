@@ -26,8 +26,8 @@ I've linked to Amazon as many of these books have the "Look Inside" feature.
 * Fundamentals of Clinical Trials. Friedman, Furberg, DeMets. [Amazon](https://www.amazon.com/Fundamentals-Clinical-Trials-Lawrence-Friedman/dp/0387985867)
 
 ### Experimental Design
-* Introduction to Design and Analysis of Experiments. Cobb. https://www.amazon.com/Introduction-Design-Analysis-Experiments-George/dp/047041216X/ref=sr_1_3?ie=UTF8&qid=1525383530&sr=8-3
-* Guide to Quality Control. Ishikawa. https://www.amazon.com/Guide-Quality-Control-Kaoru-Ishikawa/dp/9283310365
+* Introduction to Design and Analysis of Experiments. Cobb. [Amazon](https://www.amazon.com/Introduction-Design-Analysis-Experiments-George/dp/047041216X)
+* Guide to Quality Control. Ishikawa. [Amazon](https://www.amazon.com/Guide-Quality-Control-Kaoru-Ishikawa/dp/9283310365)
 
 ### Stat Methods / Regression / Modeling
 * Biostatistical Analysis. Zar. https://www.amazon.com/Biostatistical-Analysis-5th-Jerrold-Zar/dp/0131008463/ref=sr_1_1?s=books&ie=UTF8&qid=1525294212&sr=1-1
