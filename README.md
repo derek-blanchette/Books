@@ -37,8 +37,8 @@ I've linked to Amazon as many of these books have the "Look Inside" feature.
 * Markov Chain Monte Carlo in Practice (Chapman & Hall/CRC Interdisciplinary Statistics). Gilks, Richardson, Spiegelhalter. https://www.amazon.com/Markov-Practice-Chapman-Interdisciplinary-Statistics/dp/0412055511/
 * Data Mining, Fourth Edition: Practical Machine Learning Tools and Techniques . Witten, Frank, Hall, Pal. https://www.amazon.com/Data-Mining-Fourth-Techniques-Management/dp/0128042915/
 * Data Mining: The Textbook. Aggarwal. https://www.amazon.com/Data-Mining-Textbook-Charu-Aggarwal/dp/3319141414/
-* Categorical Data Analysis. Agresti. https://www.amazon.com/Categorical-Data-Analysis-Alan-Agresti/dp/0470463635
-* Applied Linear Statistical Models. Kutner. https://www.amazon.com/Statistical-McGraw-Hill-Operations-Decision-Sciences/dp/0072386886
+* Categorical Data Analysis. Agresti. [Amazon](https://www.amazon.com/Categorical-Data-Analysis-Alan-Agresti/dp/0470463635)
+* Applied Linear Statistical Models. Kutner. [Amazon](https://www.amazon.com/Statistical-McGraw-Hill-Operations-Decision-Sciences/dp/0072386886)
 
 ### Mathematical Statistics
 * An Introduction to Probability Theory and Its Applications. Feller. https://www.amazon.com/Introduction-Probability-Theory-Applications-William/dp/B000VEJQG4/
