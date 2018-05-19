@@ -19,7 +19,7 @@ I've linked to Amazon as many of these books have the "Look Inside" feature.
 * Survival Analysis Using SAS: A Practical Guide. Allison. [Amazon](https://www.amazon.com/Survival-Analysis-Using-SAS-Practical/dp/1599946408)
 
 ### [Java]
-* Absolute Java (6th Edition). Savitch, Mock. https://www.amazon.com/Absolute-Java-6th-Walter-Savitch/dp/0134041674/
+* Absolute Java (6th Edition). Savitch, Mock. [Amazon](https://www.amazon.com/Absolute-Java-6th-Walter-Savitch/dp/0134041674/)
 
 ### Clinical Trials / Human Subjects Research
 * Sample Size Calculations in Clinical Research, Third Edition (Chapman & Hall/CRC Biostatistics Series). Chow, Shao, Wang, Lokhnygina. https://www.amazon.com/Calculations-Clinical-Research-Chapman-Biostatistics/dp/1138740985/ref=sr_1_1?ie=UTF8&qid=1524695175 
