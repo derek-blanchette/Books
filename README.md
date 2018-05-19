@@ -23,7 +23,7 @@ I've linked to Amazon as many of these books have the "Look Inside" feature.
 
 ### Clinical Trials / Human Subjects Research
 * Sample Size Calculations in Clinical Research, Third Edition (Chapman & Hall/CRC Biostatistics Series). Chow, Shao, Wang, Lokhnygina. [Amazon](https://www.amazon.com/Calculations-Clinical-Research-Chapman-Biostatistics/dp/1138740985) 
-* Fundamentals of Clinical Trials. Friedman, Furberg, DeMets. https://www.amazon.com/Fundamentals-Clinical-Trials-Lawrence-Friedman/dp/0387985867/ref=sr_1_19?ie=UTF8&qid=1524763903&sr=8-19
+* Fundamentals of Clinical Trials. Friedman, Furberg, DeMets. [Amazon](https://www.amazon.com/Fundamentals-Clinical-Trials-Lawrence-Friedman/dp/0387985867)
 
 ### Experimental Design
 * Introduction to Design and Analysis of Experiments. Cobb. https://www.amazon.com/Introduction-Design-Analysis-Experiments-George/dp/047041216X/ref=sr_1_3?ie=UTF8&qid=1525383530&sr=8-3
