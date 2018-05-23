@@ -41,7 +41,7 @@ I've linked to Amazon as many of these books have the "Look Inside" feature.
 * Applied Linear Statistical Models. Kutner. [Amazon](https://www.amazon.com/Statistical-McGraw-Hill-Operations-Decision-Sciences/dp/0072386886)
 
 ### Mathematical Statistics
-* An Introduction to Probability Theory and Its Applications. Feller. https://www.amazon.com/Introduction-Probability-Theory-Applications-William/dp/B000VEJQG4/
+* An Introduction to Probability Theory and Its Applications. Feller. [Amazon](https://www.amazon.com/Introduction-Probability-Theory-Applications-William/dp/B000VEJQG4/)
 
 ### Longitudinal Data Analysis
 * Analysis of Longitudinal Data (Oxford Statistical Science Series). Diggle, Heagerty, Liang, Zeger. [Amazon](https://www.amazon.com/Analysis-Longitudinal-Oxford-Statistical-Science/dp/0199676755)
