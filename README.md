@@ -33,7 +33,7 @@ I've linked to Amazon as many of these books have the "Look Inside" feature.
 * Biostatistical Analysis. Zar. [Amazon](https://www.amazon.com/Biostatistical-Analysis-5th-Jerrold-Zar/dp/0131008463)
 * Applied Predictive Modeling. Kuhn and Johnson. [Amazon](https://www.amazon.com/Applied-Predictive-Modeling-Max-Kuhn/dp/1461468485)
 * Applied Logistic Regression. Hosmer and Lemeshow. https://www.amazon.com/Applied-Logistic-Regression-David-Hosmer/dp/0470582472/ref=sr_1_1?ie=UTF8&qid=1524446684&sr=8-1
-* Survival Analysis: Techniques for Censored and Truncated Data. Klein, Moeschberger. https://www.amazon.com/Survival-Analysis-Techniques-Truncated-Statistics/dp/038795399X/ref=sr_1_1?s=books&ie=UTF8&qid=1524865819&sr=1-1
+* Survival Analysis: Techniques for Censored and Truncated Data. Klein, Moeschberger. [Amazon](https://www.amazon.com/Survival-Analysis-Techniques-Truncated-Statistics/dp/038795399X)
 * Markov Chain Monte Carlo in Practice (Chapman & Hall/CRC Interdisciplinary Statistics). Gilks, Richardson, Spiegelhalter. [Amazon](https://www.amazon.com/Markov-Practice-Chapman-Interdisciplinary-Statistics/dp/0412055511/)
 * Data Mining, Fourth Edition: Practical Machine Learning Tools and Techniques . Witten, Frank, Hall, Pal. [Amazon](https://www.amazon.com/Data-Mining-Fourth-Techniques-Management/dp/0128042915/)
 * Data Mining: The Textbook. Aggarwal. [Amazon](https://www.amazon.com/Data-Mining-Textbook-Charu-Aggarwal/dp/3319141414/)
