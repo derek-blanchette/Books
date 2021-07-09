@@ -1,5 +1,9 @@
 # Books
 I've linked to Amazon as many of these books have the "Look Inside" feature. 
+
+### [Linux]
+The Linux Command Line, 2nd Edition: A Complete Introduction. William Shotts. [Amazon](https://www.amazon.com/Linux-Command-Line-2nd-Introduction/dp/1593279523/)
+
 ### [R]
 * The Book of R: A First Course in Programming and Statistics. Davies. [Amazon](https://www.amazon.com/Book-First-Course-Programming-Statistics/dp/1593276516)
 * R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. Wickham. [Free Full Text](http://r4ds.had.co.nz/), [Amazon](https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399)
