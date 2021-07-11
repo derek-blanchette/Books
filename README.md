@@ -1,9 +1,9 @@
 # Books
 I've linked to Amazon as many of these books have the "Look Inside" feature. 
 
-### [Linux]
+### Linux
 * The Linux Command Line, 2nd Edition: A Complete Introduction. William Shotts. [Amazon](https://www.amazon.com/Linux-Command-Line-2nd-Introduction/dp/1593279523/)
-### [Web/Mobile Development]
+### Web/Mobile Development
 * Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5. 5th Ed. Robin Nixon. [Amazon](https://www.amazon.com/Learning-PHP-MySQL-JavaScript-Javascript/dp/1491978910/)
 
 ### [R]
