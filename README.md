@@ -2,9 +2,9 @@
 I've linked to Amazon as many of these books have the "Look Inside" feature. 
 
 ### [Linux]
-The Linux Command Line, 2nd Edition: A Complete Introduction. William Shotts. [Amazon](https://www.amazon.com/Linux-Command-Line-2nd-Introduction/dp/1593279523/)
+* The Linux Command Line, 2nd Edition: A Complete Introduction. William Shotts. [Amazon](https://www.amazon.com/Linux-Command-Line-2nd-Introduction/dp/1593279523/)
 ### [Web/Mobile Development]
-Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5. 5th Ed. Robin Nixon. [Amazon](https://www.amazon.com/Learning-PHP-MySQL-JavaScript-Javascript/dp/1491978910/)
+* Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5. 5th Ed. Robin Nixon. [Amazon](https://www.amazon.com/Learning-PHP-MySQL-JavaScript-Javascript/dp/1491978910/)
 
 ### [R]
 * The Book of R: A First Course in Programming and Statistics. Davies. [Amazon](https://www.amazon.com/Book-First-Course-Programming-Statistics/dp/1593276516)
